@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm YAKOUBI AHMED</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate programmer from Morocco</h3>
 <div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ayakoubi" alt="ayakoubi's 42 stats" /></a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakoubiahmed2001&label=Profile%20views&color=0e75b6&style=flat" alt="yakoubiahmed2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakoubi-0&label=Profile%20views&color=0e75b6&style=flat" alt="yakoubi-0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yakoubiahmed2001" alt="yakoubiahmed2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yakoubi-0" alt="yakoubiahmed2001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedyakoubi7" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedyakoubi7?logo=twitter&style=for-the-badge" alt="ahmedyakoubi7" /></a> </p>
 
