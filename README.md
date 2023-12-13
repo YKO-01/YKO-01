@@ -28,10 +28,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakoubi-0&show_icons=true&locale=en&layout=compact" alt="yakoubiahmed2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YKO-01&show_icons=true&locale=en&layout=compact" alt="yakoubiahmed2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakoubi-0&show_icons=true&locale=en" alt="YKO-01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YKO-01&show_icons=true&locale=en" alt="YKO-01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakoubi-0&" alt="YKO-01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YKO-01&" alt="YKO-01" /></p>
 
 
