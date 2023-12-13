@@ -5,7 +5,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YKO-01&label=Profile%20views&color=0e75b6&style=flat" alt="YKO-01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yakoubi-0" alt="yakoubiahmed2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YKO-01" alt="yakoubiahmed2001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedyakoubi7" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedyakoubi7?logo=twitter&style=for-the-badge" alt="ahmedyakoubi7" /></a> </p>
 
